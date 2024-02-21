@@ -85,13 +85,8 @@ In this functional ebay clone users can:
 This following frameworks/libraries were used to bootstrap this project:
 
 [![React][React.js]][React-url]
-[![Redux][Redux.js]][Redux-url]
 [![Next][Next.js]][Next-url]
-[![Node][Node.js]][Node-url]
-[![Express][Express.js]][Express-url]
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![Postgres][postgresql]][postgresql-url]
-[![Swagger][swagger]][swagger-url]
 
 Notable mentions:
 
