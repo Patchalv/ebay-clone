@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Patchalv/ebay-clone">
-    <img src="./public/images/ebay_logo.png" alt="Logo" width="80" height="80">
+    <img src="./public/images/ebay_logo.png" alt="Logo" >
   </a>
 
   <h3 align="center">ebay E-Commerce Clone</h3>
