@@ -185,8 +185,8 @@ Some resources that I found helpful and would like to give credit to:
 
 <!-- Project Specfic -->
 
-[product-screenshot]: images/screenshot.png
-[product-logo]: images/logo.png
+[product-screenshot]: ./public/images/screenshot.gif
+[product-logo]: ./public/images/ebay_logo.png
 
 <!-- Project Shields -->
 
